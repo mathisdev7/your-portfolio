@@ -22,8 +22,8 @@ Welcome to the Portfolio Project! This project is designed to help you create a 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/portfolio-project.git
-    cd portfolio-project
+    git clone git@github.com:mathisdev7/your-portfolio.git
+    cd your-portfolio
     ```
 
 2. **Install Dependencies**:
